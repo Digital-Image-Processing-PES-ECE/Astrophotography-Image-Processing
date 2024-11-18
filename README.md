@@ -1,16 +1,15 @@
-# Project Name
+# Astrophotography Image Enhancement
 
 ### Project Description:
 #### Summary - 
 
 #### Course concepts used - 
-1. -
-2. -
-3. -
+1. -  Star and noise sharpening using high-pass filtering in the frequency domain 
+2. -  Noise Removal by using Median Filtering technique 
+3. -  Contrast Enhancement using imadjust (Contrast Stretching)
    
 #### Additional concepts used -
-1. -
-2. -
+1. -Image Deblurring using Lucy-Richardson Algorithm
    
 #### Dataset - 
 Link and/or Explanation if generated
@@ -21,8 +20,9 @@ Link and/or Explanation if generated
 3. -
    
 ### Contributors:
-1. Name (SRN)
-2. Name (SRN)
+1. Aryan Maganally (PES1UG22EC051)
+2. Bindushree R D (PES1UG22EC058)
+3. K S Kaveri (PES1UG22EC110)
 
 ### Steps:
 1. Clone Repository
@@ -39,7 +39,6 @@ Link and/or Explanation if generated
 * Final output images 
 
 ### References:
-1. -
-2. -
+1. - https://in.mathworks.com/discovery/image-enhancement.html
    
 ### Limitations and Future Work:
