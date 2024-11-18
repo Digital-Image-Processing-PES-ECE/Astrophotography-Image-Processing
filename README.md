@@ -27,9 +27,9 @@ These techniques collectively enhance the aesthetic and scientific value of astr
 Link and/or Explanation if generated
 
 #### Novelty - 
-1. -
-2. -
-3. -
+1. - Lucy-Richardson Algorithm
+2. - High-pass filtering
+3. - Implementing imadjust() in three different dimensions based on colour
    
 ### Contributors:
 1. Aryan Maganally (PES1UG22EC051)
